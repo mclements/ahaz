@@ -1,0 +1,5 @@
+*~
+*.gz
+src/ahaz.o
+src/ahaz.so
+ahaz.Rcheck/
